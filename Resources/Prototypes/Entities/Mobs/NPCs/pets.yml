@@ -270,7 +270,7 @@
 - type: entity
   name: space cat
   id: MobCatSpace
-  parent: MobCat
+  parent: MobCatCalico
   description: Feline pet, prepared for the worst.
   components:
   - type: Sprite
@@ -320,7 +320,7 @@
 - type: entity
   name: Floppa
   id: MobCatFloppa
-  parent: MobCat
+  parent: MobCatCaracal
   description: He out here.
   components:
   - type: Grammar
